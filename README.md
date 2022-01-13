@@ -1,6 +1,6 @@
 ## Hello, I'm Youngjun Lee
 
-- I have `bachelor's degree in Mathmatics`
+- I have `Bachelor of Science` and major `Mathmatics`
 - I'm studying programming in [SSAFY](https://www.ssafy.com/) since 2020.07.07
 
 ----
@@ -32,5 +32,7 @@
 - [algorithm - baekjoon python](https://github.com/mintropy/baekjoon_py)
 - [algorithm study - algorithm pulzo](https://github.com/mintropy/algorithm_pulzo)
 - [algorithm study - wednesday coding](https://github.com/myejin/ALGO_STUDY_123)
+- [CS](https://github.com/mintropy/CS)
+- [CS study - CS pulzo](https://github.com/minicks/cs_pulzo)
+- [CS study - CS cook book](https://github.com/CS-yorisa/CS-COOK-BOOK)
 - [python web framework](https://github.com/mintropy/Python-web-framework)
-
