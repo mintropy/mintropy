@@ -29,7 +29,7 @@
 - [algorithm - baekjoon python](https://github.com/mintropy/baekjoon_py)
 - [algorithm study - algorithm pulzo](https://github.com/mintropy/algorithm_pulzo)
 - [algorithm study - wednesday coding](https://github.com/myejin/ALGO_STUDY_123)
-- [CS](https://github.com/mintropy/CS)
+- [PKM(Personal Knowledge Management)](https://github.com/mintropy/PKM)
 - [CS study - CS pulzo](https://github.com/minicks/cs_pulzo)
 - [CS study - CS cook book](https://github.com/CS-yorisa/CS-COOK-BOOK)
 - [python web framework](https://github.com/mintropy/Python-web-framework)
